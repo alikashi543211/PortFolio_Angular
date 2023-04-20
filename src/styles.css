@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+a
+{
+    text-decoration: none;
+}
+.portfolio_card_header
+{
+    height: 300px;
+    padding: 0;
+}
+.card_header_good
+{
+    background:#212529 !important;
+    color: white;
+}
+.portfolio_parent_card_body
+{
+    background-color: grey;
+}
